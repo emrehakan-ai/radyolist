@@ -14,6 +14,9 @@ Playout and Clock Management: radyolist‘s playout module, known as Studio, is 
 
 Categories and Dayparting: radyolist allows broadcasters to categorize their audio content based on genres, moods, themes, or any other relevant criteria. This categorization facilitates targeted scheduling, ensuring that appropriate tracks are played at specific times. Dayparting, a feature commonly used in radio programming, allows broadcasters to allocate specific categories or content types to different times of the day, optimizing the programming for different listener segments and preferences.
 
+![image](https://github.com/emrehakan-ai/radyolist/assets/99765625/6dfde194-d94c-424a-b7d2-f19ce6b0c725)
+
+
 Assignments and Rotation: radyolist‘s assignment feature enables broadcasters to define rules for track rotation. This ensures that tracks from different categories or artists are played in a balanced and fair manner, avoiding excessive repetition or neglect. Assignments can be customized based on specific criteria, such as the time of day, day of the week, or target audience, ensuring a varied and engaging listening experience.
 
 Linux Compatibility and Technology Stack: radyolist is built to run on Linux systems, leveraging the stability, security, and flexibility offered by this open-source operating system. It utilizes the Apache web server for hosting the application, ensuring reliable and efficient performance. The project incorporates PHP for server-side scripting, React for building interactive user interfaces, and various JavaScript libraries to enhance functionality and user experience. Additionally, FFmpeg, a powerful multimedia framework, is integrated into radyolist to handle audio encoding, decoding, and streaming.
