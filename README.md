@@ -3,13 +3,11 @@ radyolist: A Comprehensive Radio Automation Solution
 
 radyolist is an innovative radio automation project that combines advanced software technologies and years of broadcasting experience to provide a comprehensive solution for managing music scheduling, playout, clock management, categories, dayparting, assignments, and more. Designed to run on Linux systems, radyolist leverages a range of technologies such as Apache Server, PHP, React, JavaScript libraries, and FFmpeg to deliver a robust and efficient radio automation platform. Let’s explore the key modules and features of radyolist in detail.
 
-
+![image](https://github.com/emrehakan-ai/radyolist/assets/99765625/62418ecb-4d0c-4add-9647-5258998b0a71)
 
 
 
 Music Scheduling: radyolist‘s music scheduling module enables broadcasters to create and manage their playlists efficiently. With an intuitive interface and drag-and-drop functionality, broadcasters can easily arrange tracks according to their desired schedule. The system allows for precise control over track start and end times, transitions, and crossfades. Moreover, metadata such as artist, album, and genre can be associated with each track, facilitating comprehensive organization and searchability
-
-https://radyolist.app/rdylist_media/2023/07/studioVulgar-1024x602.jpg
 
 
 Playout and Clock Management: radyolist‘s playout module, known as Studio, is responsible for handling the playback of audio content. It supports a wide range of audio formats, ensuring compatibility with various content sources. Studio enables broadcasters to define clock structures, ensuring accurate and automated playout based on predefined schedules. Clock management features enable the assignment of specific categories, genres, or types of content to different times of the day, enhancing the overall programming strategy.
